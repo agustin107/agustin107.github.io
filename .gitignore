@@ -1,7 +1,0 @@
-/node_modules
-/logs
-/public
-/.cache
-/.tmp
-*.log
-.DS_Store

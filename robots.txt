@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: https:/agustin107.github.io/404.html
+Disallow: https:/agustin107.github.io/load-sw.js
+Sitemap: https:/agustin107.github.io/sitemap.xml
